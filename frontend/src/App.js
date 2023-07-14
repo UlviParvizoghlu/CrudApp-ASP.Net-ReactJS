@@ -1,8 +1,9 @@
+import CRUD from "./CRUD";
 
 function App() {
   return (
     <div className="App">
-
+      <CRUD/>
     </div>
   );
 }
